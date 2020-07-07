@@ -1,4 +1,4 @@
-# - Апроксимизация 
+
 using System;
 
 namespace ConsoleApp17
